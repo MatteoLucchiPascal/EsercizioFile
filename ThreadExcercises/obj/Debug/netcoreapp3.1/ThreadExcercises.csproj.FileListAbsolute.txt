@@ -1,0 +1,13 @@
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\bin\Debug\netcoreapp3.1\ThreadExcercises.exe
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\bin\Debug\netcoreapp3.1\ThreadExcercises.deps.json
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\bin\Debug\netcoreapp3.1\ThreadExcercises.runtimeconfig.json
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\bin\Debug\netcoreapp3.1\ThreadExcercises.runtimeconfig.dev.json
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\bin\Debug\netcoreapp3.1\ThreadExcercises.dll
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\bin\Debug\netcoreapp3.1\ThreadExcercises.pdb
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.csprojAssemblyReference.cache
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.AssemblyInfoInputs.cache
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.AssemblyInfo.cs
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.csproj.CoreCompileInputs.cache
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.dll
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.pdb
+C:\Users\asus f556uj\source\repos\ThreadExcercises\ThreadExcercises\obj\Debug\netcoreapp3.1\ThreadExcercises.genruntimeconfig.cache
